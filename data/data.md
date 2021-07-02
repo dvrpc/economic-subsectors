@@ -1,6 +1,6 @@
 # Employment Data:
 County Business Patterns (CBP) 2010  
-County File: https://www2.census.gov/programs-surveys/cbp/datasets/2010/cbp10co.zip 
+County File: https://www2.census.gov/programs-surveys/cbp/datasets/2010/cbp10co.zip   
 U.S. File: https://www2.census.gov/programs-surveys/cbp/datasets/2010/cbp10us.zip  
 
 County Business Patterns (CBP) 2017: 
