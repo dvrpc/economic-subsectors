@@ -12,7 +12,7 @@ Bureau of Labor Statistics (BLS) Quarterly Census of Employment and Wages (QCEW)
 Downloaded "CSVs Single Files>Annual Averages>2019"  
 
 # Labor Force Statistics:  
-BLS Current Population Statistics (CPS) 2019: https://www.bls.gov/cps/aa2019/cpsaat11.htm  
+BLS Current Population Survey (CPS) 2019: https://www.bls.gov/cps/aa2019/cpsaat11.htm  
 
 Downloaded .xlsx version
 
