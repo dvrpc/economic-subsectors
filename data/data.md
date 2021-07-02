@@ -1,5 +1,3 @@
-## Note: The data files were too large to upload. Methodology is documented below.  
-
 # Employment Data:
 County Business Patterns (CBP) 2010: https://www.census.gov/data/datasets/2010/econ/cbp/2010-cbp.html  
 County Business Patterns (CBP) 2017: https://www.census.gov/data/datasets/2017/econ/cbp/2017-cbp.html  
